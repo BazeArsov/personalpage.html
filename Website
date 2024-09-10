@@ -1,8 +1,9 @@
+<!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Simple Website with Image</title>
+    <title>My Website</title>
     <style>
         body {
             font-family: Arial, sans-serif;
@@ -31,7 +32,7 @@
     </header>
 
     <section>
-        <h2>Blagoy Arsov. B. Sc. in Electrical and  Computer Engineering</h2>
+        <h2>Blagoy Arsov. B. Sc. in Electrical and Computer Engineering</h2>
         <img src="My picture.jpg" alt="A young man driving a boat">
     </section>
 
